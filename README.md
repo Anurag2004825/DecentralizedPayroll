@@ -99,4 +99,4 @@ For deployment instructions, testing guidelines, and contribution details, pleas
 #Contract Details
 Contract ID: CDLNRTXOFPS6E5JOZTNPBR6STWPM2EQMBW76XED3MHQCHTD7MWE2MVVZ
 
-![alt text](image-1.png)
+![WhatsApp Image 2025-11-02 at 17 02 20_5491f968](https://github.com/user-attachments/assets/771e9250-0fe2-455f-8f77-b9a3dd5bf9a7)
